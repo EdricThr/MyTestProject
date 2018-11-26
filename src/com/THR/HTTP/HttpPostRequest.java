@@ -1,6 +1,6 @@
 package com.THR.HTTP;
 
-import com.base.StringUtil;
+import com.base.util.StringUtil;
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.apache.http.NameValuePair;

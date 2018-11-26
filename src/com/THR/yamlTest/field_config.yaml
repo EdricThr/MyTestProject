@@ -1,0 +1,28 @@
+dept.code: ${avicDeptCode}
+dept.name: ${avicDeptName}
+dept.parent.code: ${avicParentDeptCode}
+dept.parent.name: ${avicParentDeptName}
+dept.index: ${avicSortOrder}
+dept.status: ${avicDeptState}
+
+
+user.code: ${cn}@test.com
+user.name: ${avicFullName}
+user.dept.code: ${avicDeptCode}
+user.dept.name: ${avicDeptName}${avicDeptName}
+user.security.name: ${avicUserSecurity}
+user.level.name:
+user.ext.code: ${avicEmpNo}
+user.status: ${avicVaildFlag}
+user.index: ${avicSortOrder}
+
+user.photo: ${photo}
+user.position: ${avicPosition}
+user.title: ${Title}
+user.email: ${mail}
+
+user.part.sign: ${avicsign}
+user.part.dept.code: ${avicOtherDeptID}
+user.part.dept.name: ${avicOtherDeptName}
+user.part.dept.position: ${avicOtherPosition}
+user.part.dept.index: ${avicOtherSortOrder}
